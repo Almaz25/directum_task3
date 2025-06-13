@@ -1,0 +1,15 @@
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\MeetingApp.AssemblyInfoInputs.cache
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\MeetingApp.AssemblyInfo.cs
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\MeetingApp.csproj.CoreCompileInputs.cache
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\MeetingApp.sourcelink.json
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\MeetingApp.exe
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\MeetingApp.deps.json
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\MeetingApp.runtimeconfig.json
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\MeetingApp.dll
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\MeetingApp.pdb
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\MeetingApp.dll
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\refint\MeetingApp.dll
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\MeetingApp.pdb
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\MeetingApp.genruntimeconfig.cache
+C:\Users\almaz\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\ref\MeetingApp.dll
